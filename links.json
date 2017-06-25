@@ -1,32 +1,17 @@
 [
   {
-    "name": "dribbble",
-    "url": "https://www.dribbble.com",
-    "icon": "dribbble"
-  },
-  {
     "name": "behance",
-    "url": "https://www.behance.com",
+    "url": "https://www.behance.net/sn_940718c037",
     "icon": "behance-square"
   },
   {
-    "name": "linkedin",
-    "url": "https://www.linkin.com",
-    "icon": "linkedin-square"
-  },
-  {
-    "name": "twitter",
-    "url": "https://www.twitter.com/",
-    "icon": "twitter-square"
-  },
-  {
     "name": "facebook",
-    "url": "https://www.facebook.com.tw/",
+    "url": "https://www.facebook.com/profile.php?id=100001974636043",
     "icon": "facebook-square"
   },
   {
     "name": "website",
-    "url": "www.uccu.tw",
+    "url": "http://cargocollective.com/peopletoomuch",
     "icon": "home"
   }
 ]
